@@ -23,7 +23,7 @@ now → CS + Applied Math @ Hopkins '28. varsity swimmer. shipping code.
 
 ### currently building
 
-⚡ **[Zaun](https://github.com/carlstauf/Zaun)**  
+⚡ **Zaun**  
 natural language search over iMessage. ask questions about your own conversations. no more scrolling.
 
 📈 **Prediction Market Aggregator**  
