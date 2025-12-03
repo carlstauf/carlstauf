@@ -1,4 +1,4 @@
-s```
+```
  ██████╗ █████╗ ██████╗ ██╗     
 ██╔════╝██╔══██╗██████╔╝██║     
 ██║     ███████║██████╔╝██║     
@@ -23,7 +23,7 @@ now → CS + Applied Math @ Hopkins '28. varsity swimmer. shipping code.
 
 ### currently building
 
-⚡ **Zaun**  
+⚡ **[Zaun](https://github.com/carlstauf/Zaun)**  
 natural language search over iMessage. ask questions about your own conversations. no more scrolling.
 
 📈 **Prediction Market Aggregator**  
@@ -69,3 +69,11 @@ Vercel   Docker   Git   Clerk   Notion API   Slack API
 ```
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlstauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+  
