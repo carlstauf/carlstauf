@@ -32,12 +32,7 @@ probability-weighted news engine on Polymarket data. what's *actually* going to 
 🎯 **[FocusBar](https://github.com/carlstauf/FocusBar)**  
 macOS menu bar timer. strict mode. no escape. get your shit done.
 
----
-
-### research
-
-🔬 **Jefferson Lab** — NMR spectrometers for spin-polarized fusion experiments  
-one of 10 students selected across Virginia. minimized electronic noise across coil configurations.
+Other Cool Stuff
 
 ---
 
@@ -69,10 +64,6 @@ Vercel   Docker   Git   Clerk   Notion API   Slack API
 ```
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlstauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 
 ---
 
