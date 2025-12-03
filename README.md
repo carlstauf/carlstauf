@@ -1,4 +1,4 @@
-```
+s```
  ██████╗ █████╗ ██████╗ ██╗     
 ██╔════╝██╔══██╗██████╔╝██║     
 ██║     ███████║██████╔╝██║     
@@ -69,29 +69,3 @@ Vercel   Docker   Git   Clerk   Notion API   Slack API
 ```
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlstauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
-<p align="center">
-  <b>259 contributions last year</b><br>
-  shipping > talking
-</p>## Hi there 👋
-
-<!--
-**carlstauf/carlstauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
