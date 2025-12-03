@@ -38,8 +38,6 @@ Stuff in Stealth
 
 ```
 
----
 
----
 
   
